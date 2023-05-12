@@ -1,0 +1,33 @@
+INFO  - 2023-05-12 13:33:17.576; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-12 13:33:18.053; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-12 13:33:20.692; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-12 13:33:34.350; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-12 13:33:42.413; utils.log; Total Selected Count within 24 Hours is   5
+INFO  - 2023-05-12 13:33:44.419; utils.log; Created Accounts is Within the specified limit 
+INFO  - 2023-05-12 13:34:12.564; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-12 13:34:13.039; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-12 13:34:15.628; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-12 13:34:27.121; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-12 13:34:35.072; utils.log; Total Selected Count within 24 Hours is   5
+INFO  - 2023-05-12 13:34:37.077; utils.log; Created Accounts more than the limit 
+INFO  - 2023-05-12 13:35:54.389; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-12 13:35:54.859; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-12 13:35:57.317; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-12 13:36:09.759; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-12 13:36:17.798; utils.log; Total Selected Count within 24 Hours is   5
+WARN  - 2023-05-12 13:36:20.107; org.asynchttpclient.netty.handler.WebSocketHandler; onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
