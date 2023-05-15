@@ -127,7 +127,7 @@ public class CheckAccountCreatedCount extends CRMRecruitLoginUtility{
 
 
 public void setUp1() throws Exception {
-	  log.info("START=Student Profile Search--------------------------------------------------------------");
+	  log.info("START=CheckAccountCreatedCount--------------------------------------------------------------");
 	  CRMRecruitLoginClass();
  	    js = (JavascriptExecutor) driver;
 	    vars = new HashMap<String, Object>();
@@ -152,7 +152,7 @@ public String waitForWindow(int timeout) {
  
 @SuppressWarnings("rawtypes")
 @Test
-public void changeemail() throws  Exception {
+public void checkAccountCreatedCount() throws  Exception {
  	  try {
 		   
 		  String filePath = System.getProperty("user.dir");
@@ -196,17 +196,25 @@ public void changeemail() throws  Exception {
 			    
 			    driver.switchTo().frame(0);
 			    driver.findElement(By.id("slctPrimaryEntity")).click();
+			    Thread.sleep(2000);
+
 			    {
 			      WebElement dropdown = driver.findElement(By.id("slctPrimaryEntity"));
+			      Thread.sleep(2000);
+
 			      dropdown.findElement(By.xpath("//option[. = 'People']")).click();
 			    }
 			    driver.findElement(By.id("savedQuerySelector")).click();
+			    Thread.sleep(2000);
+
 			    {
 			      WebElement dropdown = driver.findElement(By.id("savedQuerySelector"));
 			      dropdown.findElement(By.xpath("//option[. = 'Last 24 Hours Created Accounts']")).click();
 			    }
 			    driver.switchTo().defaultContent();
 			    driver.findElement(By.cssSelector(".ms-crm-ImageStrip-Results_32")).click();
+			    Thread.sleep(2000);
+
 			    {
 			      WebElement element = driver.findElement(By.cssSelector(".ms-crm-ImageStrip-Assign_32"));
 			      Actions builder = new Actions(driver);
@@ -217,36 +225,47 @@ public void changeemail() throws  Exception {
 			      Actions builder = new Actions(driver);
 			      builder.moveToElement(element, 0, 0).perform();
 			    }
-			   
+			    Thread.sleep(2000);
+
 			    driver.switchTo().frame(0);
 			    driver.switchTo().frame(0);
 			    
-  			    driver.findElement(By.id("crmGridControl_gridBodyTable_checkBox_Image_All")).click();
-			    driver.findElement(By.id("crmGridControl_LastItem")).click();
-			    driver.findElement(By.id("crmGridControl_ItemsSelected")).click();
-			    driver.findElement(By.id("crmGridControl_ItemsSelected")).click();
-			    driver.findElement(By.id("crmGridControl_ItemsSelected")).click();
-			    
-	String TotalCount = driver.findElement(By.id("crmGridControl_ItemsSelected")).getText();
- 	  int PageCount = Integer.parseInt(TotalCount);
-	  log.info("Total Selected Count within 24 Hours is   "  +PageCount);
+			    if  (driver.findElement(By.id("crmGridControl_gridBodyTable_checkBox_Image_All")).isDisplayed())
+{
+			   	 driver.findElement(By.id("crmGridControl_gridBodyTable_checkBox_Image_All")).click();
+				    driver.findElement(By.id("crmGridControl_LastItem")).click();
+				    driver.findElement(By.id("crmGridControl_ItemsSelected")).click();
+				    driver.findElement(By.id("crmGridControl_ItemsSelected")).click();
+				    driver.findElement(By.id("crmGridControl_ItemsSelected")).click();
+				    
+		String TotalCount = driver.findElement(By.id("crmGridControl_ItemsSelected")).getText();
+	 	  int PageCount = Integer.parseInt(TotalCount);
+		  log.info("Total Selected Count within 24 Hours is   "  +PageCount);
+				 
+			  Thread.sleep(2000);
 			 
-		  Thread.sleep(2000);
-		 
-		   
-		  
-  if ( PageCount <= 5){
+			   
 			  
-	  log.info("Created Accounts is Within the specified limit ");
-	    
-					  
-			}
-			else  if ( PageCount > 5){
- 			 
-				  Assert.fail();
+	  if ( PageCount <= 5){
 				  
-			}	
-		 
+		  log.info("Created Accounts is Within the specified limit ");
+		    
+						  
+				}
+				else  if ( PageCount > 5){
+	 			 
+					  Assert.fail();	  
+				}	
+	 	
+			    }
+			   
+			    
+					 
+			    else{
+			    	 driver.findElement(By.cssSelector(".ms-crm-grid-img-text"));
+					  log.info("No Account created within Last 24 Hours ");
+					}   
+  			   
 	 		  
 		  
 		  

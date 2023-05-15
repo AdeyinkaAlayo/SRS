@@ -31,3 +31,289 @@ java.net.SocketException: Connection reset
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
 	at java.base/java.lang.Thread.run(Thread.java:833)
+INFO  - 2023-05-15 09:43:07.258; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 09:43:07.804; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 09:43:12.819; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 09:43:29.589; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 09:43:49.207; utils.log;  Selected 
+INFO  - 2023-05-15 09:43:51.911; utils.log; ade202305150943@gmail.com
+INFO  - 2023-05-15 09:43:54.107; utils.log; Email Saved 
+INFO  - 2023-05-15 09:44:16.435; utils.log; Details Sent to ERP
+INFO  - 2023-05-15 09:44:16.612; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 09:44:18.929; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 09:44:31.647; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 09:44:47.475; utils.log; SPAIDEN  Searched and opened  
+INFO  - 2023-05-15 09:44:52.024; utils.log; Go Button Clicked  
+INFO  - 2023-05-15 09:44:55.326; utils.log; Email Saved on CRM is available on Banner
+INFO  - 2023-05-15 09:49:55.173; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 09:49:55.754; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 09:49:58.746; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 09:50:04.753; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 09:50:07.797; utils.log;   Login Successful and Banner Header Displayed 
+INFO  - 2023-05-15 09:50:17.222; utils.log; SAAQUIK Searched and opened  
+INFO  - 2023-05-15 09:50:21.025; utils.log; Go Button Clicked  
+INFO  - 2023-05-15 09:50:52.052; utils.log; Generated ID: 19247967. Identification record created. Biographical record created;Address record not created. Telephone record not created. E-mail record not created. Additional ID not created.
+INFO  - 2023-05-15 09:50:54.059; utils.log; 19247967
+INFO  - 2023-05-15 09:51:53.100; utils.log; Date entered 
+INFO  - 2023-05-15 09:51:58.658; utils.log; Saved 
+INFO  - 2023-05-15 09:51:58.911; utils.log; Saver 
+INFO  - 2023-05-15 09:52:02.100; utils.log; to close
+INFO  - 2023-05-15 09:52:06.238; utils.log; Launching Sgastn 
+INFO  - 2023-05-15 09:52:09.842; utils.log; sgastdn GO button clicked 
+INFO  - 2023-05-15 09:52:09.949; utils.log; Curricula TAB Clicked 
+INFO  - 2023-05-15 09:52:10.584; utils.log; Update Button Clicked
+INFO  - 2023-05-15 09:52:16.311; utils.log; SGASTDN record updated successfully
+INFO  - 2023-05-15 09:52:37.590; utils.log; Submit Button Clicked  
+INFO  - 2023-05-15 09:52:38.655; utils.log; FB33E0F619
+INFO  - 2023-05-15 09:52:38.655; utils.log; The generated username is   19247967
+INFO  - 2023-05-15 09:52:38.655; utils.log; The generated password is   FB33E0F619
+INFO  - 2023-05-15 09:54:41.746; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 09:54:42.262; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 09:54:45.236; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 09:54:50.689; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 09:54:53.721; utils.log;   Login Successful and Banner Header Displayed 
+INFO  - 2023-05-15 09:55:03.110; utils.log; SAAQUIK Searched and opened  
+INFO  - 2023-05-15 09:55:06.542; utils.log; Go Button Clicked  
+INFO  - 2023-05-15 09:55:37.320; utils.log; Generated ID: 19247968. Identification record created. Biographical record created;Address record not created. Telephone record not created. E-mail record not created. Additional ID not created.
+INFO  - 2023-05-15 09:55:39.333; utils.log; 19247968
+INFO  - 2023-05-15 09:56:37.661; utils.log; Date entered 
+INFO  - 2023-05-15 09:56:43.091; utils.log; Saved 
+INFO  - 2023-05-15 09:56:43.329; utils.log; Saver 
+INFO  - 2023-05-15 09:56:46.574; utils.log; to close
+INFO  - 2023-05-15 09:56:50.764; utils.log; Launching Sgastn 
+INFO  - 2023-05-15 09:56:54.620; utils.log; sgastdn GO button clicked 
+INFO  - 2023-05-15 09:56:54.802; utils.log; Curricula TAB Clicked 
+INFO  - 2023-05-15 09:56:55.412; utils.log; Update Button Clicked
+INFO  - 2023-05-15 09:57:01.436; utils.log; SGASTDN record updated successfully
+INFO  - 2023-05-15 09:57:22.129; utils.log; Submit Button Clicked  
+INFO  - 2023-05-15 09:57:23.176; utils.log; 490A2635F1
+INFO  - 2023-05-15 09:57:23.176; utils.log; The generated username is   19247968
+INFO  - 2023-05-15 09:57:23.176; utils.log; The generated password is   490A2635F1
+INFO  - 2023-05-15 11:43:41.488; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 11:43:42.181; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 11:43:45.947; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 11:43:53.231; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 11:43:55.244; utils.log; Login SUccessful
+INFO  - 2023-05-15 11:43:59.396; utils.log; My Account Clicked  
+INFO  - 2023-05-15 11:44:14.480; utils.log; Pay By Bank Clicked
+INFO  - 2023-05-15 11:44:16.594; utils.log; Payment Page Opened
+INFO  - 2023-05-15 11:44:16.745; utils.log; ID and DOB Supplied and Terms selected
+INFO  - 2023-05-15 11:44:18.005; utils.log; COntinue Button Clicked 
+INFO  - 2023-05-15 11:44:21.052; utils.log; TutionBox Clicked 
+INFO  - 2023-05-15 11:44:21.143; utils.log; Amount Entered
+INFO  - 2023-05-15 11:44:22.502; utils.log; COntinue Button Clicked 
+INFO  - 2023-05-15 11:44:25.539; utils.log; Summary Page Opened
+INFO  - 2023-05-15 11:44:26.710; utils.log; COntinue Button Clicked 
+INFO  - 2023-05-15 11:44:29.712; utils.log; Payment details  Page Opened
+INFO  - 2023-05-15 11:44:32.004; utils.log; Payment details  Page Opened
+INFO  - 2023-05-15 11:44:36.414; utils.log; Payment information entered and COntinue Button Clicked 
+INFO  - 2023-05-15 11:44:39.440; utils.log; Pay By Bank Transfer Option Available 
+INFO  - 2023-05-15 11:44:40.241; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 11:44:40.309; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 11:44:43.041; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 11:44:55.314; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 11:45:13.000; utils.log;  Selected 
+INFO  - 2023-05-15 11:45:15.558; utils.log; ade202305151145@gmail.com
+INFO  - 2023-05-15 11:45:17.695; utils.log; Email Saved 
+INFO  - 2023-05-15 11:45:39.005; utils.log; Details Sent to ERP
+INFO  - 2023-05-15 11:45:39.085; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 11:45:41.541; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 11:45:53.724; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 11:46:09.017; utils.log; SPAIDEN  Searched and opened  
+INFO  - 2023-05-15 11:46:12.256; utils.log; Go Button Clicked  
+INFO  - 2023-05-15 11:46:15.427; utils.log; Email Saved on CRM is available on Banner
+INFO  - 2023-05-15 11:46:18.249; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 11:46:18.304; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 11:46:21.011; utils.log; Test Execution Started On Dev
+INFO  - 2023-05-15 11:46:29.871; utils.log; Login Successful
+INFO  - 2023-05-15 11:46:44.600; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 11:46:44.663; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 11:46:47.342; utils.log; Test Execution Started On Dev
+INFO  - 2023-05-15 11:46:55.957; utils.log; Login Successful
+INFO  - 2023-05-15 11:47:37.224; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 11:47:37.275; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 11:47:40.136; utils.log; Test Execution Started On Dev
+INFO  - 2023-05-15 11:47:49.068; utils.log; Login Successful
+INFO  - 2023-05-15 11:48:30.729; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 11:48:30.781; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 11:48:33.430; utils.log; Test Execution Started On Dev
+INFO  - 2023-05-15 11:48:42.131; utils.log; Login Successful
+INFO  - 2023-05-15 11:48:50.679; utils.log; Student Search successful 
+INFO  - 2023-05-15 11:48:52.777; utils.log; Switched to New TAB  
+INFO  - 2023-05-15 11:48:54.774; utils.log; Checked 1 
+INFO  - 2023-05-15 11:50:15.041; utils.log; All Profile details checked 
+INFO  - 2023-05-15 11:50:15.754; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 11:50:15.807; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 11:50:18.377; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 11:50:29.725; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 11:51:17.260; utils.log; END=FAILED
+INFO  - 2023-05-15 12:02:02.278; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 12:02:02.754; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 12:02:05.659; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 12:02:11.263; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 12:02:14.285; utils.log;   Login Successful and Banner Header Displayed 
+INFO  - 2023-05-15 12:02:23.508; utils.log; SAAQUIK Searched and opened  
+INFO  - 2023-05-15 12:03:05.916; utils.log; END=FAILED
+INFO  - 2023-05-15 12:07:01.742; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 12:07:02.208; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 12:07:05.139; utils.log; Test Execution Started On Dev
+INFO  - 2023-05-15 12:07:14.540; utils.log; Login Successful
+INFO  - 2023-05-15 12:07:31.606; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 12:07:31.683; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 12:07:33.372; utils.log; Test Execution Started On Dev
+INFO  - 2023-05-15 12:07:42.084; utils.log; Login Successful
+INFO  - 2023-05-15 12:11:18.009; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 12:11:18.713; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 12:11:22.738; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 12:11:29.775; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 12:11:31.812; utils.log; Login SUccessful
+INFO  - 2023-05-15 12:11:34.716; utils.log; My Account Clicked  
+INFO  - 2023-05-15 12:11:49.807; utils.log; Pay By Bank Clicked
+INFO  - 2023-05-15 12:11:51.855; utils.log; Payment Page Opened
+INFO  - 2023-05-15 12:11:52.036; utils.log; ID and DOB Supplied and Terms selected
+INFO  - 2023-05-15 12:11:53.468; utils.log; COntinue Button Clicked 
+INFO  - 2023-05-15 12:11:56.534; utils.log; TutionBox Clicked 
+INFO  - 2023-05-15 12:11:56.620; utils.log; Amount Entered
+INFO  - 2023-05-15 12:11:58.030; utils.log; COntinue Button Clicked 
+INFO  - 2023-05-15 12:12:01.050; utils.log; Summary Page Opened
+INFO  - 2023-05-15 12:12:02.270; utils.log; COntinue Button Clicked 
+INFO  - 2023-05-15 12:12:05.281; utils.log; Payment details  Page Opened
+INFO  - 2023-05-15 12:12:07.568; utils.log; Payment details  Page Opened
+INFO  - 2023-05-15 12:12:11.935; utils.log; Payment information entered and COntinue Button Clicked 
+INFO  - 2023-05-15 12:12:14.955; utils.log; Pay By Bank Transfer Option Available 
+INFO  - 2023-05-15 12:12:15.786; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 12:12:15.868; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 12:12:18.441; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 12:12:30.260; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 12:12:47.724; utils.log;  Selected 
+INFO  - 2023-05-15 12:12:50.246; utils.log; ade202305151212@gmail.com
+INFO  - 2023-05-15 12:12:52.378; utils.log; Email Saved 
+INFO  - 2023-05-15 12:13:13.742; utils.log; Details Sent to ERP
+INFO  - 2023-05-15 12:13:13.801; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 12:13:16.148; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 12:13:28.203; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 12:13:44.286; utils.log; SPAIDEN  Searched and opened  
+INFO  - 2023-05-15 12:13:47.593; utils.log; Go Button Clicked  
+INFO  - 2023-05-15 12:13:50.801; utils.log; Email Saved on CRM is available on Banner
+INFO  - 2023-05-15 12:13:53.737; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 12:13:53.800; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 12:13:56.619; utils.log; Test Execution Started On Dev
+INFO  - 2023-05-15 12:14:06.433; utils.log; Login Successful
+INFO  - 2023-05-15 12:14:17.214; utils.log; Student Search successful 
+INFO  - 2023-05-15 12:14:19.431; utils.log; Switched to New TAB  
+INFO  - 2023-05-15 12:14:20.690; utils.log; Checked 1 
+INFO  - 2023-05-15 12:15:41.063; utils.log; All Profile details checked 
+INFO  - 2023-05-15 12:15:41.823; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 12:15:41.896; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 12:15:43.935; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 12:15:55.256; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 12:16:43.125; utils.log; END=FAILED
+INFO  - 2023-05-15 12:33:56.847; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 12:33:57.380; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 12:34:00.400; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 12:34:13.498; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 12:35:01.651; utils.log; END=FAILED
+INFO  - 2023-05-15 12:35:53.714; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 12:35:54.213; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 12:35:56.970; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 12:36:17.901; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 12:36:39.900; utils.log; END=FAILED
+INFO  - 2023-05-15 12:49:25.689; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 12:49:26.243; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 12:49:28.907; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 12:49:41.157; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 12:51:13.037; utils.log; START=CheckAccountCreatedCount--------------------------------------------------------------
+INFO  - 2023-05-15 12:51:13.547; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 12:51:16.318; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 12:51:29.081; utils.log; Username , Password Entered and Sign In Button Clicked  
+WARN  - 2023-05-15 12:51:46.319; org.asynchttpclient.netty.handler.WebSocketHandler; onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+INFO  - 2023-05-15 12:52:51.411; utils.log; START=CheckAccountCreatedCount--------------------------------------------------------------
+INFO  - 2023-05-15 12:52:51.910; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 12:52:54.633; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 12:53:06.788; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 12:53:23.942; utils.log; No Account created within Last 24 Hours 
+INFO  - 2023-05-15 12:54:24.398; utils.log; START=CheckAccountCreatedCount--------------------------------------------------------------
+INFO  - 2023-05-15 12:54:24.881; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 12:54:27.885; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 12:54:40.717; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 12:54:57.823; utils.log; No Account created within Last 24 Hours 
+INFO  - 2023-05-15 13:18:29.092; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 13:18:29.846; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 13:18:34.842; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 13:18:42.573; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 13:18:44.608; utils.log; Login SUccessful
+INFO  - 2023-05-15 13:18:47.730; utils.log; My Account Clicked  
+INFO  - 2023-05-15 13:19:02.904; utils.log; Pay By Bank Clicked
+INFO  - 2023-05-15 13:19:04.974; utils.log; Payment Page Opened
+INFO  - 2023-05-15 13:19:05.376; utils.log; ID and DOB Supplied and Terms selected
+INFO  - 2023-05-15 13:19:06.932; utils.log; COntinue Button Clicked 
+INFO  - 2023-05-15 13:19:10.018; utils.log; TutionBox Clicked 
+INFO  - 2023-05-15 13:19:10.135; utils.log; Amount Entered
+INFO  - 2023-05-15 13:19:11.628; utils.log; COntinue Button Clicked 
+INFO  - 2023-05-15 13:19:14.664; utils.log; Summary Page Opened
+INFO  - 2023-05-15 13:19:15.949; utils.log; COntinue Button Clicked 
+INFO  - 2023-05-15 13:19:18.955; utils.log; Payment details  Page Opened
+INFO  - 2023-05-15 13:19:21.534; utils.log; Payment details  Page Opened
+INFO  - 2023-05-15 13:19:26.573; utils.log; Payment information entered and COntinue Button Clicked 
+INFO  - 2023-05-15 13:19:29.603; utils.log; Pay By Bank Transfer Option Available 
+INFO  - 2023-05-15 13:19:30.332; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 13:19:30.428; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 13:19:33.244; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 13:19:50.044; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 13:19:55.166; utils.log; END=FAILED
+INFO  - 2023-05-15 13:19:55.938; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 13:19:56.019; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 13:19:58.797; utils.log; Test Execution Started On Dev
+INFO  - 2023-05-15 13:20:08.293; utils.log; Login Successful
+INFO  - 2023-05-15 13:20:25.139; utils.log; Student Search successful 
+INFO  - 2023-05-15 13:20:27.318; utils.log; Switched to New TAB  
+INFO  - 2023-05-15 13:20:28.804; utils.log; Checked 1 
+INFO  - 2023-05-15 13:21:09.254; utils.log; START=CheckAccountCreatedCount--------------------------------------------------------------
+INFO  - 2023-05-15 13:21:09.334; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 13:21:11.508; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 13:21:22.566; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 13:22:05.690; utils.log; END=FAILED
+INFO  - 2023-05-15 13:23:09.571; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 13:23:10.214; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 13:23:14.175; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 13:26:19.537; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 13:26:19.617; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 13:26:22.377; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 13:26:34.447; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 13:26:52.761; utils.log;  Selected 
+INFO  - 2023-05-15 13:26:55.798; utils.log; ade202305150126@gmail.com
+INFO  - 2023-05-15 13:26:57.960; utils.log; Email Saved 
+INFO  - 2023-05-15 13:27:19.665; utils.log; Details Sent to ERP
+INFO  - 2023-05-15 13:27:19.747; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 13:27:22.310; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 13:27:34.960; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 13:27:50.100; utils.log; SPAIDEN  Searched and opened  
+INFO  - 2023-05-15 13:27:54.514; utils.log; Go Button Clicked  
+INFO  - 2023-05-15 13:27:57.721; utils.log; Email Saved on CRM is available on Banner
+INFO  - 2023-05-15 13:28:00.667; utils.log; START=Student Profile Search--------------------------------------------------------------
+INFO  - 2023-05-15 13:28:00.740; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 13:28:03.622; utils.log; Test Execution Started On Dev
+INFO  - 2023-05-15 13:28:12.731; utils.log; Login Successful
+INFO  - 2023-05-15 13:28:22.243; utils.log; Student Search successful 
+INFO  - 2023-05-15 13:28:24.350; utils.log; Switched to New TAB  
+INFO  - 2023-05-15 13:28:25.489; utils.log; Checked 1 
+INFO  - 2023-05-15 13:28:46.888; utils.log; START=CheckAccountCreatedCount--------------------------------------------------------------
+INFO  - 2023-05-15 13:28:46.964; utils.log; Chrome browser is Selected 
+INFO  - 2023-05-15 13:28:49.533; utils.log; Test Execution Started On Preprod
+INFO  - 2023-05-15 13:29:01.630; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2023-05-15 13:29:18.220; utils.log; No Account created within Last 24 Hours 

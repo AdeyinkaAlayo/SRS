@@ -278,7 +278,7 @@ public void createTestAccount() throws  Exception {
  	 driver.findElement(By.id("inp:key_block_keyblocTermCode")).click();
 
 
-     driver.findElement(By.id("inp:key_block_keyblocTermCode")).sendKeys("202201");
+     driver.findElement(By.id("inp:key_block_keyblocTermCode")).sendKeys("202301");
      Thread.sleep(3000);
      
      driver.findElement(By.id("frames10")).click();
@@ -373,7 +373,7 @@ public void createTestAccount() throws  Exception {
 	    driver.switchTo().frame(0);
 	
 	    driver.findElement(By.id("inp:key_block_stvtermTermCode")).click();
-	    driver.findElement(By.id("inp:key_block_stvtermTermCode")).sendKeys("202201");
+	    driver.findElement(By.id("inp:key_block_stvtermTermCode")).sendKeys("202301");
 	//  driver.findElement(By.id("frames11")).click();
 	    
 	    driver.findElement(By.xpath("/html/body/div[1]/div/div[2]/div[1]/div/form/div[2]/button[1]")).click();
@@ -385,7 +385,7 @@ public void createTestAccount() throws  Exception {
 	    driver.findElement(By.cssSelector("#page_curriculumTab_deactiveDuplicateBtn > .ui-button-text")).click();
 	    log.info("Update Button Clicked");
 
-	    driver.findElement(By.name("tempCurrStartDate")).sendKeys("01/20/2020");
+	    driver.findElement(By.name("tempCurrStartDate")).sendKeys("01/20/2023");
 	    driver.findElement(By.cssSelector("#tempCurrOkBtn > .ui-button-text")).click();
 	    Thread.sleep(3000);
 	    
